@@ -36,6 +36,7 @@ kdramas = {
         {"title": "School 2017", "desc": "High school teens struggle with grades and rebellion.", "character": "📝 Ra Eun-ho: 'Dream big, even when scolded.'", "url": "https://en.wikipedia.org/wiki/School_2017"},
         {"title": "Dream High", "desc": "Talented students chase dreams at a music school.", "character": "🎤 Song Sam-dong: 'Dreams are louder than fear.'", "url": "https://en.wikipedia.org/wiki/Dream_High"},
         {"title": "Who Are You: School 2015", "desc": "Twins swap places and uncover dark secrets.", "character": "🧍 Go Eun-byul: 'Truth hides behind the uniform.'", "url": "https://en.wikipedia.org/wiki/Who_Are_You:_School_2015"},
+         {"title": "A-Teen", "desc": "Teenagers navigate friendship, love, and identity.", "character": "📚 Do Ha-na: 'Being 18 is confusing and beautiful.'", "url": "https://en.wikipedia.org/wiki/A-Teen"},
         {"title": "True Beauty", "desc": "A girl uses makeup to transform her social status.", "character": "💄 Lim Ju-kyung: 'Beauty is more than a face.'", "url": "https://en.wikipedia.org/wiki/True_Beauty_(South_Korean_TV_series)"}
     ],
     "medical": [
@@ -55,12 +56,14 @@ kdramas = {
         {"title": "Hotel del Luna", "desc": "A hotel for ghosts run by a cursed woman.", "character": "🌑 Jang Man-wol: 'Every soul has a story.'", "url": "https://en.wikipedia.org/wiki/Hotel_del_Luna"},
         {"title": "Bring It On, Ghost", "desc": "A boy who can see ghosts fights them with a girl spirit.", "character": "👻 Park Bong-pal: 'Boo is just the beginning.'", "url": "https://en.wikipedia.org/wiki/Bring_It_On,_Ghost"},
         {"title": "Master's Sun", "desc": "A woman sees ghosts and finds peace with a CEO.", "character": "☀️ Joo Joong-won: 'You see ghosts, I see you.'", "url": "https://en.wikipedia.org/wiki/Master%27s_Sun"},
+        {"title": "A-Teen", "desc": "Teenagers navigate friendship, love, and identity.", "character": "📚 Do Ha-na: 'Being 18 is confusing and beautiful.'", "url": "https://en.wikipedia.org/wiki/A-Teen"},
         {"title": "Hi Bye, Mama!", "desc": "A mother gets a 49-day chance to return to life.", "character": "🍼 Cha Yu-ri: 'Love beyond death.'", "url": "https://en.wikipedia.org/wiki/Hi_Bye,_Mama!"}
     ],
     "forbidden": [
         {"title": "The World of the Married", "desc": "A wife uncovers her husband’s betrayal.", "character": "💔 Ji Sun-woo: 'Love can ruin or revive.'", "url": "https://en.wikipedia.org/wiki/The_World_of_the_Married"},
         {"title": "Secret Love Affair", "desc": "An elite woman falls for her young piano student.", "character": "🎹 Oh Hye-won: 'Talent breaks walls.'", "url": "https://en.wikipedia.org/wiki/Secret_Love_Affair"},
         {"title": "Temptation of Wife", "desc": "A betrayed woman returns under a new identity.", "character": "💄 Goo Eun-jae: 'Revenge is flawless.'", "url": "https://en.wikipedia.org/wiki/Temptation_of_Wife"},
+        {"title": "Love (ft. Marriage and Divorce)", "desc": "Three women face betrayal and seek healing.", "character": "📻 Boo Hye-ryung: 'Secrets can't stay hidden forever.'", "url": "https://en.wikipedia.org/wiki/Love_(ft._Marriage_and_Divorce)"},
         {"title": "Nevertheless", "desc": "Two art students dance around temptation.", "character": "🖌️ Park Jae-eon: 'Don't fall for me.'", "url": "https://en.wikipedia.org/wiki/Nevertheless_(TV_series)"}
     ]
 }
